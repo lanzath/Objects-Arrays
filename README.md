@@ -5,7 +5,7 @@ Desafios para fortalecer alguns conceitos, entre eles:
 Objetos;
 Vetores.
 
-Construção e impressão de objetos
+## Construção e impressão de objetos
 Crie um programa que armazena dados da empresa Rocketseat dentro de um objeto chamado empresa. Os dados a serem armazenados são:
 
 * Nome: Rocketseat
@@ -16,7 +16,7 @@ Crie um programa que armazena dados da empresa Rocketseat dentro de um objeto ch
 * Rua: Rua Guilherme Gembala
 * Número: 260
 
-Vetores e objetos
+## Vetores e objetos
 Crie um programa com um objeto para armazenar dados de um programador como nome, idade e tecnologias que trabalha.
 
 Um programador pode trabalhar com várias tecnologias, por isso armazene essas tecnologias em um array.
